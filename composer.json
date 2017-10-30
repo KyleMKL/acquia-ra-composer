@@ -1,5 +1,5 @@
 {
-    "name": "acquia/acquia-ra-composer",
+    "name": "kylelee/acquia-ra-composer",
     "description": "Project json for Acquia Remote Administration Composer builds",
     "type": "project",
     "license": "MIT",
